@@ -25,7 +25,9 @@ public class distinctNums {
 					
 	}
 	public static boolean isNewNum(int[] userNumber, int num) {
-			int i = 0;
+			// JA: This is only checking against the first
+			// term. You need to compare to all the numbers
+			int i = 0; 
 			if (num != userNumber[i]) {
 				return true;
 			} else {
