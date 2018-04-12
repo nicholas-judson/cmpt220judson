@@ -32,7 +32,7 @@ public class Circle2D {
 	public boolean contains(Circle2D circle) {
 		double distance = Math.sqrt(Math.pow((x - circle.x), 2) + Math.pow((y - circle.y), 2));
 		
-		if (distance <= Math.abs(radius - circle.radius)) 
+		if (distance <= radius - circle.radius) // JA
 			return true;
 		
 		return false;
