@@ -1,0 +1,22 @@
+Customer ID: 1
+First Name: Nicholas
+Last Name: Judson
+Address: 111 Grandview Drive Valatie, NY 12184
+Phone Number: (518) 867 - 7787
+Email Address: nicholas.judson1@marist.edu
+Location: 1
+First Name: Bruce
+Last Name: Webster
+Address: 150 VanBuren Ave Niverville, NY 12184
+Phone Number: (518) 867 - 7705
+Email Address: bruce.webster@gmail.com
+Part Name: Alternator
+Part Cost: $150.0
+Tax Rate: 0.08
+Hourly Rate: $80.0
+Hours Worked: 20
+Discount: 0.0
+Make: Volkswagen
+Model: Jetta
+Year: 2010.0
+The total cost for the repair is $1890.0
